@@ -1,0 +1,46 @@
+JUCE SUMMIT 2015 CONTENT
+------------------------
+
+This projects contains parts of the Projucer live coding demo created for the JUCE Summit 2015.
+Copyright (c) 2015 - ROLI Ltd.
+
+Use this code at your own risk & have some fun with C++ live coding!
+This code is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+A PARTICULAR PURPOSE.
+
+CPPCON 2015 CONTENT
+-------------------
+
+This project contains parts of the Projucer live coding demo created for CppCon 2015.
+Copyright (c) 2015 - ROLI Ltd.
+
+Use this code at your own risk & have some fun with C++ live coding!
+This code is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+A PARTICULAR PURPOSE.
+
+JUCE @ 26b01e9f183409420a2e91283b02f75661f0c656
+-----------------------------------------------
+
+Below is the README copied from the used version of JUCE,
+which also gives an overview of the licensing model used.
+
+# The JUCE Library
+
+JUCE (Jules' Utility Class Extensions) is an all-encompassing
+C++ framework for developing cross-platform software.
+
+It contains pretty much everything you're likely to need to create
+most applications, and is particularly well-suited for building
+highly-customised GUIs, and for handling graphics and sound.
+
+Most JUCE modules are shared under the GNU Public Licence
+(GPLv2, v3, and the AGPLv3). This means that the code can
+be freely copied and distributed, and costs nothing to use
+in other GPL applications. One module (the juce_core module)
+is permissively licensed under the ISC.
+
+For more information, visit the website:
+http://www.juce.com
+
